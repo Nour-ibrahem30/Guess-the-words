@@ -4,7 +4,7 @@ document.title = gameName;
 document.querySelector("h1").innerHTML = gameName;
 document.querySelector(
   "footer"
-).innerHTML = `${gameName} Game Created By Elzero Web School`;
+).innerHTML = `${gameName} Game Created By " Nour Ibrahem " `;
 
 // Setting Game Options
 let numbersOfTries = 6;
